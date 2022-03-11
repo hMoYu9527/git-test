@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("======");
         System.out.println("hot-fix");
         System.out.println("======");
+        System.out.println("ssh");
     }
 }
